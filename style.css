@@ -39,3 +39,40 @@ h1 {
     color: white;
     border-radius: 10px;
 }
+
+.mission-color {
+    color: rgb(231, 102, 27);
+}
+
+.second-section {
+    display: flex;
+    margin: 10px 100px 10px 100px;
+
+}
+
+.second-section div {
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+.widh-set {
+    width: 50%;
+    padding: 20px;
+
+}
+
+.widh-set img {
+    width: 50%;
+}
+
+.div-back-color-one {
+    background-color: rgb(176, 253, 253);
+}
+
+.div-back-color-two {
+    background-color: rgb(147, 247, 160);
+}
+
+.div-back-color-three {
+    background-color: rgb(225, 245, 151);
+}
