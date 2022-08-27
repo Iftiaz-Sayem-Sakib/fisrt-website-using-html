@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0PX;
 }
 
 .first-flex {
@@ -24,6 +25,14 @@ body {
 h1 {
     font-size: 40px;
     padding-left: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
 }
 
 .border-color {
@@ -75,4 +84,61 @@ h1 {
 
 .div-back-color-three {
     background-color: rgb(225, 245, 151);
+}
+
+.flex-third {
+    display: flex;
+    margin-top: 150px;
+}
+
+.helf-width-two {
+    width: 50%;
+    padding-bottom: px;
+}
+
+.helf-width-two img {
+    width: 70%;
+    margin-left: 116px;
+}
+
+.left-margin {
+    margin-right: 100px;
+}
+
+/* #one {
+    background-image: url(images/illustrators/dream-bg.png);
+    background-repeat: no-repeat;
+} */
+
+.right-margin {
+    margin-left: 100px;
+}
+
+#two {
+    width: 50%;
+    margin-right: 116px;
+}
+
+/* #three {
+    background-image: url(/images/illustrators/exp-bg.png);
+    background-repeat: no-repeat;
+
+} */
+
+.mr-top {
+    margin-top: 120px;
+}
+
+.width-mines img {
+    width: 410px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 40px;
+}
+
+.center {
+    text-align: center;
 }
